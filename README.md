@@ -1,6 +1,6 @@
 
 
-🚀 SkillSphere  
+#🚀 SkillSphere  
 ### 🌐 Domain-Centric College E-learning System  
 
 <p align="center">
@@ -133,25 +133,12 @@ CI/CD Pipelines
 
 ---
 
-📊 Output
-
-🔐 Login Page
-
-📊 Dashboard
-
-📈 Progress Tracking System
-
-
-
----
-
 🎯 Impact
 
 ✔️ Structured skill development
 ✔️ Strong junior–senior collaboration
 ✔️ Real-world project experience
 ✔️ Internship-ready portfolios
-
 
 ---
 
@@ -164,23 +151,6 @@ CI/CD Pipelines
 📜 Certification system
 
 🌐 Alumni network
-
-
-
----
-
-👨‍💻 Team
-
-Praneshwaran P
-
-Saravanakumar R
-
-Sriharsshun S.P
-
-Suresh K
-
-
-👩‍🏫 Guided by: Ms. M Pushpalatha (AP/CSE)
 
 
 ---
@@ -224,22 +194,7 @@ If you like this project:
 
 MIT License
 
-
 ---
 
-💬 Quote
 
-> "Technology becomes powerful when learning becomes structured." 🚀
-
-
-
----
-
-### 🔥 If you want next level:
-I can upgrade it further with:
-- 📊 **GitHub stats cards (your profile)**
-- 🎨 **Animated header (typing effect)**
-- 🖼️ **Custom banner image**
-- 🌈 **Ultra premium README like top 1% repos**
-
-Just say **“make it ultra premium”** 😎
+> "Technology becomes powerful when learning becomes structured."
