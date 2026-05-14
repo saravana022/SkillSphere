@@ -152,7 +152,8 @@ CI/CD Pipelines
 
 🤝 Contribution
 
-git clone https://github.com/saravana022/SkillSphere.git
+git clone https://github.com/saravana022/SkillSphere.git 
+
 cd SkillSphere
 
 Fork the repo
@@ -186,3 +187,5 @@ MIT License
 
 
 > "Technology becomes powerful when learning becomes structured."
+
+Author : Saravanakumar R
