@@ -1,7 +1,7 @@
 
 
 
- 🚀 SKILLSPHERE 
+ ### 🚀 SKILLSPHERE 
 ### 🌐 Domain-Centric College E-learning System  
 
 <p align="center">
@@ -69,20 +69,7 @@ It transforms traditional clubs into **domain-based learning ecosystems** where 
 📊 **Progress Tracking** — Measure growth  
 🎯 **Domain Grouping** — Focused learning  
 
----
-
-## 🔄 Student Workflow
-
-```mermaid
-flowchart LR
-A[Register] --> B[Select Domain]
-B --> C[Get Tasks]
-C --> D[Submit Projects]
-D --> E[Get Feedback]
-E --> F[Track Progress]
-
-
----
+--
 
 🏗️ System Architecture
 
