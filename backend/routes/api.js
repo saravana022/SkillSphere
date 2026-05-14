@@ -4,7 +4,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const multer = require('multer');
 const path = require('path');
-const db = require('../config/db');
+// const db = require('../config/db');
 const { verifyToken, requireRole } = require('../middleware/auth');
 
 // ======================== MULTER CONFIG ========================
